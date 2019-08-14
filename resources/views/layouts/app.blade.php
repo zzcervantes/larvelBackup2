@@ -9,6 +9,7 @@
 			@yield('content')
 
 			@include('inc.sidebar')
+			@show
 
 		</body>
 	</html>
