@@ -6,5 +6,5 @@
 @endsection
 
 @section('sidebar')
-@parent
-<p>This is appending to sidebar</p>
+	
+	<p>This is appending to sidebar</p>
