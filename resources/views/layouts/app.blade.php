@@ -6,5 +6,7 @@
 		</head>
 		<body>
 			@yield('content')
+
+			@yield('about')
 		</body>
 	</html>
