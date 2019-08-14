@@ -1,5 +1,5 @@
 @section('sidebar')
 <div class="sidebar">
- 	This is a sidebar
+ 	<h1>This is a sidebar</h1>
 	@show
 </div>
