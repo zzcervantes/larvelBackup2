@@ -6,7 +6,7 @@
 		</head>
 		<body>
 			@yield('content')
-
+			About should show up here
 			@yield('about')
 		</body>
 	</html>
