@@ -6,7 +6,10 @@
 		</head>
 		<body>
 			@yield('content')
-			About should show up here
-			@yield('about')
+
+			@section('sidebar')
+			<div class="sidebar">
+				This is a sidebar
+			</div>
 		</body>
 	</html>
