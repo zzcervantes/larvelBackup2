@@ -7,9 +7,7 @@
 		<body>
 			@yield('content')
 
-			@section('sidebar')
-			<div class="sidebar">
-				This is a sidebar
-			</div>
+			#include('inc.sidebar')
+
 		</body>
 	</html>
